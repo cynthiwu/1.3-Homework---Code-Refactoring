@@ -9,8 +9,8 @@ View the [github-pages](https://cynthiwu.github.io/code-refactoring-homework-9.8
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-  * []
-  * []
+  * [HTML Changes](#html-changes)
+  * [CSS Changes](#css-changes)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
