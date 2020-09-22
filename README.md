@@ -1,5 +1,5 @@
 
-# HOMEWORK ASSIGNMENT 1: CODE REFACTOR
+# CODE REFACTOR
 
 Explore the [project page](https://github.com/cynthiwu/code-refactoring-homework-9.8.20)
 
